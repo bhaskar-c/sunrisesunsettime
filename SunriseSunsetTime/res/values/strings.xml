@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunrise Sunset Time</string>
+    <string name="imgdesc">Image</string>
+    <string name="action_settings">Settings</string>
+    <string name="official_sunrise_time_label">Sunrise:</string>
+    <string name="official_sunset_time_label">Sunset:</string>
+    <string name="latitude_label">Latitude:</string>
+    <string name="longitude_label">Longitude:</string>
+    <string name="update_location">Update Location</string>
+    <string name="time_zone_label">Timezone:</string>
+    <string name="time_zone_name_label">Timezone Name</string>
+    <string name="locationpicker_button_search">search</string>
+    <string name="locationpicker_button_query">select</string>
+    <string name="locationpicker_button_zoom_in">+</string>
+    <string name="locationpicker_button_zoom_out">-</string>
+    <string name="lt">&lt;</string>
+    <string name="gt">&gt;</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="civil">Civil</string>
+    <string name="official">Official</string>
+    <string name="nautical">Nautical</string>
+    <string name="astronomical">Astronomical</string>
+    <string name="transit_time:">Transit Time:</string>
+    <string name="transit_time">Transit Time</string>
+    <string name="ok">OK</string>
+    <string name="location_name">Location name:</string>
+    <string name="latsign">Latitude(-ve for South)</string>
+    <string name="lonsign">Longitude(-ve for West)</string>
+
+    
+       
+
+    
+    
+    
+</resources>
